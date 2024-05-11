@@ -2,6 +2,9 @@
 
 Este é um projeto de um formulário de login e registro com efeito de deslizamento entre os formulários. Ele foi desenvolvido utilizando HTML, CSS e JavaScript.
 
+![image](https://github.com/thmedu/Sliding-Login-and-Registration-Form/assets/141462806/c59927a9-0e5d-4f58-bcf5-56ac655ac981)
+
+
 ## Funcionalidades
 
 - Permite que os usuários entrem com suas credenciais de login.
