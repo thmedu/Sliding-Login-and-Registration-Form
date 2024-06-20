@@ -51,4 +51,8 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md 
 
 ---
 
-Sinta-se à vontade para contribuir com melhorias, relatar problemas ou enviar sugestões. Se precisar de ajuda adicional, consulte o arquivo README.md do projeto ou entre em contato diretamente com o autor.
+## Autor ✍️
+
+Este projeto foi desenvolvido por [Thomas Nascimento].
+
+
